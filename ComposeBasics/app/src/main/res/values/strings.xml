@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Compose Basics</string>
+    <string name="text_composable_heading">Text composable</string>
+    <string name="text_composable_detail">Displays text and follows material design guideline</string>
+    <string name="image_composable_heading">Image composable</string>
+    <string name="image_composable_detail">Create a composable that lays out and draw a given Painter class object</string>
+    <string name="row_composable_heading">Row composable</string>
+    <string name="row_composable_detail">A layout composable that places its children in horizontal sequence</string>
+    <string name="column_composable_heading">Column composable</string>
+    <string name="column_composable_detail">A layout composable that places its children in vertical sequence</string>
+</resources>
