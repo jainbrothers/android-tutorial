@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="defaultname">ajit</string>
+    <string name="defaultfrom">jain</string>
+    <string name="BirthdayGreeting">Happy Birthday </string>
+    <string name="fromstring">-from </string>
+</resources>
