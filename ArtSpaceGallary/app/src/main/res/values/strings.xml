@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtSpaceGallary</string>
+    <string name="example_description_text">Still Life of Blue Rose and Other Flowers</string>
+    <string name="sample_artist_name">Sample Artist Name</string>
+    <string name="sample_publication_year">1999</string>
+    <string name="left_paranthesis">(</string>
+    <string name="right_paranthesis">)</string>
+</resources>
