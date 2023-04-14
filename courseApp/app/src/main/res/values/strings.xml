@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">courseApp</string>
+    <string name="architecture_topic_name">Architecture</string>
+    <string name="craft_topic_name">Crafts</string>
+    <string name="business_topic_name">Business</string>
+    <string name="culinary_topic_name">Culinary</string>
+    <string name="design_topic_name">Design</string>
+    <string name="fashion_topic_name">Fashion</string>
+    <string name="film_topic_name">Film</string>
+    <string name="gaming_topic_name">Gaming</string>
+    <string name="drawing_topic_name">Drawing</string>
+    <string name="liftstyle_topic_name">Lifestyle</string>
+    <string name="music_topic_name">Music</string>
+    <string name="painting_topic_name">Painting</string>
+    <string name="photography_topic_name">Photography</string>
+    <string name="tech_topic_name">Tech</string>
+</resources>
